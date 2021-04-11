@@ -1,0 +1,1 @@
+<?php echo $content; ?><?php /**PATH E:\xampp\htdocs\learning\application\resources\views/user/certificate_pdf.blade.php ENDPATH**/ ?>
